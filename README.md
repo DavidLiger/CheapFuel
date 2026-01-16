@@ -4,6 +4,10 @@
 
 **Published on Google Play Store: February 2023 - December 2024**
 
+## 🎥 Demo
+
+**Watch the 2-minute demo:** [YouTube Link]([https://youtube.com/...](https://youtube.com/shorts/4JX5yq3kY4w?feature=share))
+
 ## 📸 Screenshots
 
 <table>
