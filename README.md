@@ -23,7 +23,6 @@ Download `cheap-fuel-v1.0.0.apk` below and install on Android device.
 ### 🛠️ Technical Details
 - React Native 0.XX
 - Expo SDK XX
-- React Native Maps
 - Geolocation API
 - REST API integration
 
