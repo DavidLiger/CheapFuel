@@ -1,30 +1,49 @@
-## 📱 Cheap Fuel - Fuel Price Finder App
+# ⛽ Cheap Fuel - Fuel Price Finder
 
-**Production-ready Android application** (Published on Google Play Store: Feb 2023 - Dec 2024)
+> React Native mobile app for finding the best fuel prices near you
 
-### 🎥 Demo Video
-[Watch Demo](https://youtube.com/shorts/4JX5yq3kY4w?feature=share)
+**Published on Google Play Store: February 2023 - December 2024**
 
-### ✨ Features
-- Real-time fuel price data from public API
-- GPS geolocation
-- Station filtering
-- AdMob integration
+## 📸 Screenshots
 
-### 📥 Installation
-Download `cheap-fuel-v1.0.0.apk` below and install on Android device.
+<table>
+  <tr>
+    <td><img src="docs/screenshots/home.png" width="250"/></td>
+    <td><img src="docs/screenshots/detail.png" width="250"/></td>
+  </tr>
+</table>
 
-**Note:** You may need to enable "Install from unknown sources" in Android settings.
+## ✨ Features
 
-### 📸 Screenshots
-![Home](docs/screenshots/home.png)
-![Detail](docs/screenshots/detail.png)
+- 🗺️ Real-time geolocation
+- 📍 Interactive map with fuel stations
+- 💰 Live fuel prices (French government open data API)
+- 🔍 Filter by fuel type (Diesel, SP95, SP98, E10)
+- 📊 Distance sorting
+- 📱 Native Android experience
 
-### 🛠️ Technical Details
-- React Native 0.XX
-- Expo SDK XX
-- Geolocation API
-- REST API integration
+## 🛠️ Tech Stack
+
+- **Frontend:** React Native + Expo
+- **APIs:** Geolocation API, French Government Fuel Price API
+- **Monetization:** AdMob
+- **Storage:** AsyncStorage
+
+## 📝 Deployment History
+
+**Google Play Store (Feb 2023 - Dec 2024)**
+- Published and maintained for 2 years
+- 5+ downloads 😂🤣
+- 4.2★ average rating
+- Developer account closed due to maintenance costs
+
+## 💡 Key Technical Challenges Solved
+
+- Public API integration and data parsing
+- Geolocation permissions (foreground & background)
+- Google Play Store deployment
+- App monetization with AdMob integration
 
 ---
-*This app was published on Google Play Store from February 2023 to December 2024 before the developer account was closed.*
+
+*This app was actively maintained and available on Google Play Store for 2 years before account closure.*
