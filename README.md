@@ -1,6 +1,31 @@
-# CheapFuel
-Appli mobile en react Native permettant de trouver autour de soit ou autour d'une commune en France les stations vendant un carburant au choix. Les résultats sont automatiquement triés par ordre de prix croissants.
+## 📱 Cheap Fuel - Fuel Price Finder App
 
-Publiée pour Android et déployée sur le Google PlayStore :
+**Production-ready Android application** (Published on Google Play Store: Feb 2023 - Dec 2024)
 
-https://play.google.com/store/apps/details?id=com.cheapfuel
+### 🎥 Demo Video
+[Watch Demo](https://youtube.com/shorts/4JX5yq3kY4w?feature=share)
+
+### ✨ Features
+- Real-time fuel price data from public API
+- GPS geolocation
+- Station filtering
+- AdMob integration
+
+### 📥 Installation
+Download `cheap-fuel-v1.0.0.apk` below and install on Android device.
+
+**Note:** You may need to enable "Install from unknown sources" in Android settings.
+
+### 📸 Screenshots
+![Home](docs/screenshots/home.png)
+![Detail](docs/screenshots/detail.png)
+
+### 🛠️ Technical Details
+- React Native 0.XX
+- Expo SDK XX
+- React Native Maps
+- Geolocation API
+- REST API integration
+
+---
+*This app was published on Google Play Store from February 2023 to December 2024 before the developer account was closed.*
